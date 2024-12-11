@@ -6,7 +6,7 @@ import os
 import sys
 
 # Code paths for documentation
-code_paths = ['../deadline/plugins/UnrealEngine',
+code_paths = ['../deadline/plugins/UnrealEngine5',
               '../unreal/UnrealDeadlineService/Content/Python',
               '../unreal/MoviePipelineDeadline/Content/Python']
 
