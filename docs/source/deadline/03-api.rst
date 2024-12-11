@@ -20,7 +20,7 @@ RPC
 Plugin
 ++++++
 
-.. automodule:: UnrealEngine
+.. automodule:: UnrealEngine5
    :members:
    :undoc-members:
    :show-inheritance:
